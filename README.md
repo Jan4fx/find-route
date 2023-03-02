@@ -1,11 +1,17 @@
-To run the file:
+To run the file
+
 >python findcity.py
+
 If there are city naming issues the error will output 
 Then you will be asked to input a start city something like 
+
 Enter start city: >Salina
+
 This was tested in Python 2 and at the start if you use python 2 it will ask you to try again with raw_input instead of input, and remember that for the duration of the run
+
 After you have inputed the correct start city it will then ask for goal city
 Enter goal city: >Wichita 
+
 For these start and goal examples with the provided coordinates.txt and Adjacencies.txt you should get a directions.txt file with this information
 Shortest path:
 Salina
@@ -21,8 +27,11 @@ If you would like to input your own test data simply edit the coordinates and Ad
 
 Helpful Sources:
 Artificial Intelligence Second Edition Stephen Lucci,Danny Kopec Pages 77-82 Hueristics 
+
 Artificial Intelligence Second Edition Stephen Lucci,Danny Kopec Pages 86-87 Priority Queue
+
 Artificial Intelligence Second Edition Stephen Lucci,Danny Kopec Page 99 A* search
+
 Add_Edge function explanation http://projectpython.net/chapter18/
 
 Class Prompt:
