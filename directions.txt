@@ -1,0 +1,8 @@
+Shortest path:
+Salina
+ -> distance: 0.455124704678
+McPherson
+ -> distance: 0.42895119552
+Newton
+ -> distance: 0.403965310795
+Wichita
