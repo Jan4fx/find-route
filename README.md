@@ -7,7 +7,7 @@ Then you will be asked to input a start city something like
 
 Enter start city: >Salina
 
-This was tested in Python 2 and at the start if you use python 2 it will ask you to try again with raw_input instead of input, and remember that for the duration of the run
+This was tested in Python 2 (but should be able to run in Python 3) and at the start if you use python 2 it will ask you to try again with raw_input instead of input, and remember that for the duration of the run
 
 After you have inputed the correct start city it will then ask for goal city
 Enter goal city: >Wichita 
