@@ -26,6 +26,7 @@ If you would like to input your own test data simply edit the coordinates and Ad
 
 
 Helpful Sources:
+
 Artificial Intelligence Second Edition Stephen Lucci,Danny Kopec Pages 77-82 Hueristics 
 
 Artificial Intelligence Second Edition Stephen Lucci,Danny Kopec Pages 86-87 Priority Queue
