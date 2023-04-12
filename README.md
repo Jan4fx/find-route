@@ -1,3 +1,5 @@
+A* Search Algorithm for finding route from point A to point B
+
 To run the file
 
 >python findcity.py
